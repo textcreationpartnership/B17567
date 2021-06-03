@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Short instructions for the sick, especially for the contagion, or otherwise, are deprived of the presence of a faithful pastor. / By Richard Baxter.</title>
+            <author>Baxter, Richard, 1615-1691.</author>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B17567</idno><idno type="EEBO-CITATION">99888172</idno>
+  <idno type="VID">194370</idno>
+  <idno type="EEBO-PROQUEST">2240898131</idno>
+  
+            <idno type="STC">Wing B1417</idno>
+            <idno type="STC">ESTC R229129</idno>
+            <idno type="PROQUEST">ocm99888172</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888172e"/>
+            <note>(EEBO-TCP ; phase 2, no. B17567)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 194370)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; B3:3[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Short instructions for the sick, especially for the contagion, or otherwise, are deprived of the presence of a faithful pastor. / By Richard Baxter.</title>
+                  <author>Baxter, Richard, 1615-1691.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1673.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>At foot of page: This was written in the time of the great plague. 1665. for the sick, in the city of London, but because it is the vvork of all our lives, to prepare for a safe and comfortable death, it is reprinted for the use of all. 1673.</note>
+                  <note>Place of publication suggested by the British Library.</note>
+                  <note>In L copy, the words "for the" in the title are crossed out and the words "who by" are substituted in ms.</note>
+                  <note>With marginal notes.</note>
+                  <note>Imperfect: stained.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Plague --  England --  Early works to 1800.</term>
+               <term type="topical_term">Christian life --  Early works to 1800.</term>
+               <term type="topical_term">Devotional literature --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="instructions">
+            <pb facs="tcp:194370:1"/>
+            <head>Short Instructions for the SICK, Especially for the Contagion, or otherwise, are deprived of the Presence of a Faithful PASTOR.</head>
+            <byline>By <hi>RICHARD BAXTER.</hi>
+            </byline>
+            <p>
+               <seg rend="decorInit">T</seg>Hose happy Persons who have made it the chief care and bus ness of their lives, to be always ready for a dying hour, have least need of my present counsel: It is therefore those unhappy Souls, who are yet unpre<g ref="char:EOLhyphen"/>pared, whom I shall now Instruct. And, O that the Lord would bless these VVords; and <hi>perswade</hi> them yet, ere Time be gone!</p>
+            <p>If sin had not bewitched men, and made them Monsters of senselesness and unbelief, it could not be, that an <hi>Endless Life,</hi> so <hi>sure,</hi> so <hi>near,</hi> could be so sottishly made light of, all their lives, as is by most, till they per<g ref="char:EOLhyphen"/>ceive that Death is ready to surprize them. But, poor sinner, if this have been thy case, supposing yet that thou art unwilling to be damned, I ear<g ref="char:EOLhyphen"/>nestly intreat thee in the Name of Christ, for the sake of thy Immortal soul, that thou wilt presently lay to heart these short Instructions, before Time and Hope are gone for ever.</p>
+            <p n="1">
+               <note place="margin">Deut. 6.5. &amp; 10.12. &amp; 11.1,13.</note> I. At last bethink thee <hi>what thou art?</hi> and for <hi>what End</hi> and <hi>Work</hi> thou camest into the VVorld? Thou art a Man of Reason, and not a Brute, and hast a Soul which was made to <hi>Know,</hi> and <hi>Love,</hi> and <hi>Serve</hi> thy Maker; and that not in the second place, with the leavings of the flesh; but in the <hi>first</hi> place, and with all thy Heart and Might. If this had been indeed thy Life, God would have been thy Portion, thy Father, and thy Defence, and thou mightst have liv'd and dy'd in peace and comfort, and then have liv'd with God for ever. And should not a Creature live to the Ends and Uses which it was made for? Must God give thee all thy powers for Him self, and wilt thou turn them from him, to the service of the flesh, and that when thou hadst vowed the contrary in thy Baptism? How wilt thou an<g ref="char:EOLhyphen"/>swer for such treacherous ungodliness?</p>
+            <p n="2">
+               <note place="margin">Deut. 32.29. Matth. 6.19.20,33. Matth. 25. Rom. 2. 2 Cor. 4.18. &amp; 5.7,18,19 Phil. 3.18,20. 2 Thes. 1.9,10. 1 Pet. 4.18.</note> II. It is time for thee now to <hi>have serious thoughts of the Life which thou art going to:</hi> If thou couldst sleepily forget it all the way, it is time to awake when thou art almost there. When thy friends are burying that flesh in the earth, which thou didst more regard than God and thy Salva<g ref="char:EOLhyphen"/>tion, thy Soul must appear in an endless world; and see those things which God foretold thee of, and thou wouldst not believe, or set thy heart upon: As soon as Death hath opened the curtains, O what a sight must thou pre<g ref="char:EOLhyphen"/>sently behold! A world of Angels and of holy Souls adoring and praising, and admiring that God, whom thou didst refuse to <hi>mind,</hi> and <hi>love,</hi> and <hi>serve:</hi> A world of Devils and damned souls, in torment and despair, be<g ref="char:EOLhyphen"/>wailing their contempt of Christ and Grace, their neglect of God, and their Salvation; their serving the flesh, and loving the world, and wilfully losing the time of Mercy, and all the means which God vouchsafed them. Believe it, <hi>sinner,</hi> there is an Endless Joy and Glory for the Saints, and an Endless Misery for all the Ungodly; and one of these must quickly be thy case. Thy state is changeable while thou art in the flesh; if thy soul be mi<g ref="char:EOLhyphen"/>serable, there is yet a Remedy; it's possible Christ may renew and pardon it: But as soon as thou goest hence, thou enterest into a state of Joy or Torment which must never change; no not when millions of years are past. And dost thou not think now in thy conscience that such an End<g ref="char:EOLhyphen"/>less Misery should have been prevented with greater care and diligence, then all the sufferings of this life? And that the attaining of such an End<g ref="char:EOLhyphen"/>less Glory, had been worth thy greatest care and labour? And that it is far better to <hi>see</hi> the Glory of God, and be filled with his Love, and joy<g ref="char:EOLhyphen"/>fully praise him with his Saints and Angels for evermore, and by a holy life to have prepared for this; than to please the flesh, and follow the world a little while, and be undone for ever! Hast thou got more by the world and sin than Heaven is worth? Thou art almost at the end of worldly pleasures, and hast all that ever they will do for thee; but if God had had thy heart and service, he would not thus have cast thee off; and his Rewards and Joys would have had no end. O how much happier are the blessed Souls in Heaven than we?</p>
+            <p n="3">III. And seeing you are so near to the Judgment of God, where your Soul must receive its final Sentence, it is high time now to <hi>juag your self,</hi> and know what estate your Soul is in; whether in a state of <hi>Justification,</hi> or of <hi>Damnation.</hi> For this may be certainly known if you are willing. And first you must know <hi>who they be</hi> whom Christ will <hi>justifie,</hi> and whom he will <hi>condemn:</hi> And this the <hi>Word of God</hi> will tell you; for he will Judge them by <hi>that Word.</hi> In a word [<q rend="inline">All those whom Christ will justifie and save, are made new creatures by the renewing work of the Holy Ghost: Their eyes are opened to see the vanity of this world, and the certainty and excellency of the Glory of Heaven; and to see the <hi>odiousness</hi> of <hi>sin,</hi> and the <hi>goodness</hi> of a <hi>holy life,</hi> and to believe that <hi>Christ</hi> is the <hi>only Sa<g ref="char:EOLhyphen"/>viour,</hi> to cleanse them from their sins, and bring them to that Glory. And therefore they forsake the sinful pleasures of the flesh, and set their hearts on the everlasting blessedness, and seek it before all things; and lamenting and hating their former sins, they give themselves sincerely to their God and Father, their Saviour and their Sanctifier, to be taught and ruled, justified, sanctified, and saved by him; resolving whatever it cost the flesh, to stand to this choice and Covenant to the death.</q>] <note place="margin">Rev. 2 7,10. Prov. 11.7. Job 8.13.14.</note> This is the case of all that Christ will justifie and save: The rest, who never were thus renewed and sanctified, will be condemned, as sure as the Gospel is true. Therefore let it be speedily your work, to try whether this be your case or not. Have you been thus enlightned, convinced, and renewed, to believe in Christ, and the life to come, and to give up your self in a faith<g ref="char:EOLhyphen"/>ful Covenant to God your <hi>Father,</hi> your Saviour and your Sanctifier; to hate your sin, and to live and love a holy life, in mortifying the flesh, and seeking Heaven before the World? If this be not your case, I should but flatter and deceive you to tell you of any hope of being saved, till you are thus renewed and justified. Never imagine a lye to quiet you, tell help is past. No one that is unregenerate, or unholy, shall ever dwell with God. Yet you may be saved, if yet you will be truly converted and sanctified; but <hi>without this,</hi> assuredly there is no hope.</p>
+            <p n="4">
+               <note place="margin">Luke 13.3,5. Luke 15 Matth. 18.3.</note> IV. Therefore I counsel you in the Name of Christ,to <hi>look back upon your sinful life with sorrow;</hi> not only because of the <hi>danger</hi> to <hi>your self,</hi> but also because you have <hi>offended God!</hi> What think you <hi>now</hi> of a <hi>sinful</hi> and of a <hi>holy life?</hi> Had it not been better that you had valued Christ and Grace, and lived in the love of God, and in the joyful hopes of the life to come, and denied the sinful desires of the flesh, and been ruled by the Law of God, and spent your time in preparing for Eternity? Do you not hearti<g ref="char:EOLhyphen"/>ly wish that this had been your course? Would you take this course if it were to do again, and God recover you? Repent, repent from the bot<g ref="char:EOLhyphen"/>tom of your heart, of the time you have lost, the mercy you have abused, the grace you have resisted, of all your <hi>fleshly, worldly</hi> desires, words and deeds; and that you gave not up your soul and life to the love of God and Life eternal.</p>
+            <p n="5">
+               <note place="margin">Matth. 12.28. 2 Cor. 8.5. Acts 11 23.</note> V. And now resolvedly give up your self in a hearty Covenant to God: Though it be late, he will yet accept and pardon you, if you do it in sin<g ref="char:EOLhyphen"/>cerity. Take God for your God your portion and felicity, to live in his love and praise for ever; take Christ for your Saviour, to teach, and rule, and justifie you, and bring you unto God; and the Holy Spirit for your Sanctifier, and certainly he will take you for his Child. But see that you be truly willing of his Grace, and resolved never to forsake him more. O happy Soul, if at last the Lord will make this change upon thee! And I'le tell you certainly how to know, whether this late Repentance will serve for your Salvation, or not. <note place="margin">Psal. 78.34,35,36,37. Heb 8.10. &amp; 10.16. Jer. 32.40.</note> If it be but <hi>Fear</hi> only which causeth your Repentance, and the <hi>Heart</hi> and <hi>Will</hi> be not renewed, but you would turn again to fleshly, worldly, and ungodly life, if you be recovered; then it will never save your Soul: But if your <hi>Heart,</hi> your <hi>Will,</hi> your <hi>Love</hi> be changed, and this change would hold if God recovered you to health again, then doubt not of Pardon and Salvation.</p>
+            <p n="6">
+               <note place="margin">Phil. 1.21,23. 2 Cor. 5.8. Rev. 14.13: Acts 7.59. John 17.24. &amp; 12.26. Rev. 21 &amp; 22.</note> VI. And if God have thus changed your heart, and drawn it to himself, be thankful for so great a mercy: O bless him for giving you a Redeemer and a Sanctifier, and the pardoning Covenant of Grace. And now be not afraid or loath to leave a sinful world, and come to God; pray harder for Grace and pardon then for life. Commit and trust your souls to Christ: He had never done so much for souls, if he had not loved them, and been willing to receive them. How wonderfully came he down to man to bring up man to the sight of God! He is gone before to prepare us a Mansion in the City of God; and hath promised to take us to himself, that we may dwell with him, and see his Glory! The world which you are going to, is unlike to this; there is no pride, or lust, or cruelty, oppression, deceit, or any sin: No wicked men to scorn or persecute you; no vanity to allure us; no Devil to tempt us; no corruption of our own to burden or endan<g ref="char:EOLhyphen"/>ger us; no fears, or cares, or griefs, or discontents; no poverty, sickness, pain, or death; no doubtings of the love of God, or our Salvation: But the sight of God, and the feelings of his love, and the fervent flames of our love to him, will be the everlasting pleasure of the Saints. These will break forth in triumphant and harmonious thanks and praise in the pre<g ref="char:EOLhyphen"/>sence of our glorified Redeemer, and in concord with all the heavenly Hosts, the Blessed Angels, and the Spirits of the Just: This is the end of Faith and Holiness, Patience and Perseverance; when Hell is the end of unbelief, ungodliness, sensuality and hypocrisie. How justly are they con<g ref="char:EOLhyphen"/>demned, who sell their part of endless Joys for a shadow and dream or transitory pleasures? And can delight more in the filth of sin, and in a fading vanity, than in the love of God, and the fore-thoughts of Glory? What Love can be too great? what Desires too fervent? what Prayer and Labour can be too much? what Sufferings too dear for such a Blessedness?</p>
+            <p n="7">
+               <note place="margin">Mal. 2.7. James 5.14. Psal. 73.26.</note> VII. Lastly, Because there are many cases of the Sick which require the presence of a <hi>judicious Divine,</hi> if it be possible get the help of such; if not, remember that God is just in denying men that mercy in their di<g ref="char:EOLhyphen"/>stress, which in time of their health and prosperity they rejected with scorn and contempt, and cleave to him whom they may enjoy for euer.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>This was Written in the time of the great Plague, 1665. for the Sick, in the City of <hi>London,</hi> but because it is the VVork of all our Lives, to prepare for a Safe and Comfortable Death, it is Reprinted for the Use of all. 1673.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
